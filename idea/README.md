@@ -1,5 +1,5 @@
 
-KrishiVyahan
+# KrishiVyahan
 
 Agricultural marketing covers the services involved in moving an agricultural product from the farm to the consumer. These services involve the planning, organizing, directing and handling of agricultural produce in such a way as to satisfy farmers, intermediaries and consumers. Numerous interconnected activities are involved in doing this, such as planning production, growing and harvesting, grading, packing and packaging, transport, storage, agro and food processing, provision of market information, distribution, advertising and sale.
 
